@@ -1,0 +1,7 @@
+# Ignorar archivos construidos
+.terraform
+# Ignorar archivos construidos
+tmpfiles/*
+**/tmpfiles/*
+**/*/tmpfiles/*
+**/**/*/tmpfiles/*
